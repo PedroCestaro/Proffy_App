@@ -1,5 +1,4 @@
 
-<href="C:\Users\pedro\OneDrive\Área de Trabalho\Next Level\proffy\src\assets\images\logo.svg"/>
 
 <h1 align="center"> Proffy </h1>
 
