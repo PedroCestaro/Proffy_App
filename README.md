@@ -4,6 +4,8 @@
 
 <p align="center"> O Proffy é uma plataforma online onde professores e alunos podem interagir para estudos online!</p>
 
+<img src="https://github.com/PedroCestaro/Proffy_App/blob/master/proffy_images/landing.png" alt="banner"/>
+
 <br>
 <h2>Conteúdos</h2>
 <p align="center>
